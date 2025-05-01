@@ -8,7 +8,7 @@
   <a href="http://www.linkedin.com/in/jhonatan-lopez-olguin-2132a3196" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="jhonath1010@gmail.com" target="_blank">
+  <a href="mailto:jhonath1010@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Hi, I’m Jhonatan Olguin, a Software Development student at Seneca College.<br>🛠 I enjoy building and debugging C++ applications; fixing bugs is often more satisfying than writing code from scratch! 😄<br>💻 Currently, I’m working on a multi-user, database-driven shopping cart system in C++ that simulates parallel user interactions. This project integrates Oracle SQL and aims to handle simultaneous customer orders, including product selection, checkout, and order management.<br>🌐 I’m also exploring full-stack web development using Node.js, PostgreSQL, and MongoDB.<br>📂 Feel free to check out my repositories for C++ apps, database integrations, and web dev projects.<br>🌍 Visit my portfolio at jhonatanolguin.com to see real-time applications in action.</p>
+<p align="left">Hi, I’m Jhonatan Olguin, a 2nd-year Software Development student at Seneca College.<br>🛠 I enjoy building and debugging C++ applications; fixing bugs is often more satisfying than writing code from scratch! 😄<br>💻 Currently, I’m working on a multi-user, database-driven shopping cart system in C++ that simulates parallel user interactions. This project integrates Oracle SQL and aims to handle simultaneous customer orders, including product selection, checkout, and order management.<br>🌐 I’m also exploring full-stack web development using Node.js, PostgreSQL, and MongoDB.<br>📂 Feel free to check out my repositories for C++ apps, database integrations, and web dev projects.<br>🌍 Visit my portfolio at <a href="http://jhonatanolguin.com" target="_blank">jhonatanolguin.com</a> to see real-time applications in action.</p>
 
 ###
 
